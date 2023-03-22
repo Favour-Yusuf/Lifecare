@@ -4,6 +4,7 @@ import Elite from './Components/Elite/Elite'
 import ExclusiveService from './Components/ExclusiveServices/ExclusiveService'
 import Header from './Components/Header/Header'
 import Hero from './Components/Hero/Hero'
+import HowWeWork from './Components/HowWeWork/HowWeWork'
 
 const App = () => {
   return (
@@ -14,6 +15,8 @@ const App = () => {
       <AboutUs />
       <br />
       <Elite />
+      <br /><br />
+      <HowWeWork />
     </div>
   )
 }

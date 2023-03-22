@@ -132,20 +132,17 @@ const ButtonHold = styled.div`
   }
 `;
 const Button = styled.button`
-  height: 30px;
-  width: 150px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: poppins;
-  background-color: #087cc5;
-  border: none;
-  outline: none;
-  color: #fff;
-  font-weight: 600;
-  border-radius: 4px;
-  margin-right: 20px;
-  transition: all 350ms;
+  padding: 7px 10px;
+    display: block;
+    justify-content: center;
+    /* align-items: center; */
+    font-family: poppins;
+    background-color: #a8ff37;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 20px;
   @media (max-width: 510px) {
     margin: 0 5px;
     width: 120px;

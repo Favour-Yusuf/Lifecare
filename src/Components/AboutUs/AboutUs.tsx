@@ -31,8 +31,8 @@ const AboutUs = () => {
           </Content>
 
           <Visit to="/contact">
-            <span>Click here to register </span>
-            <HiArrowNarrowRight size="20px" />
+            <span style =  {{color: "#a8ff37"}}>Click here to register </span>
+            <HiArrowNarrowRight size="20px" style = {{color:"#a8ff37"}} />
           </Visit>
         </Text>
       </Wrapper>
