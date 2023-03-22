@@ -162,6 +162,8 @@ const Wrapper = styled.div`
   align-items: center;
 `;
 const Logo = styled.div`
+color: black;
+/* color: #a8ff37; */
   width: 60px;
   font-weight: bold;
   img {
