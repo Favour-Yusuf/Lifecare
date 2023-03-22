@@ -88,12 +88,14 @@ const Wrapper = styled.div`
 const Title = styled.div`
   font-size: 30px;
   font-weight: 900;
-  font-family: nunito;
+  /* font-family: nunito; */
   text-align: center;
 `;
 const Sub = styled.div`
   font-size: 13px;
   margin-bottom: 20px;
+  color: #a8ff37;
+  font-weight: bold;
 `;
 const CardHold = styled.div`
   width: 100%;

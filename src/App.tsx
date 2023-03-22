@@ -11,12 +11,12 @@ const App = () => {
     <div>
       <Header />
       <Hero />
-      <ExclusiveService />
+      <HowWeWork />
       <AboutUs />
       <br />
       <Elite />
       <br /><br />
-      <HowWeWork />
+      <ExclusiveService />
     </div>
   )
 }

@@ -88,7 +88,7 @@ const Wrapper = styled.div`
 const Title = styled.div`
   font-size: 30px;
   font-weight: 900;
-  font-family: nunito;
+  /* font-family: nunito; */
 `;
 const SubTitle = styled.div`
   font-size: 13px;
