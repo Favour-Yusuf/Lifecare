@@ -21,8 +21,8 @@ const Elite = () => {
             </p>
           </Content>
           <Visit to="/pricing">
-            <span>Sign up today </span>
-            <HiArrowNarrowRight size="20px" />
+            <span style =  {{color: "#a8ff37"}} >Sign up today </span>
+            <HiArrowNarrowRight size="20px"  style =  {{color: "#a8ff37"}} />
           </Visit>
         </Text>
 
